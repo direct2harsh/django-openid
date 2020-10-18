@@ -6,6 +6,8 @@ views.
 
 Caution: Work in Progress
 
+Setup the virtual environment and deep dive into the project.
+
 It's not ready yet! However, you are welcome to dive in to the code or take a 
 look at the in-progress documentation in django_openid/docs (which can be 
 built using Sphinx).
